@@ -1,0 +1,72 @@
+.gris{
+    background-color: rgba(175, 170, 177, 0.507) ;
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Regular',Helvetica,Arial,Lucida,sans-serif;
+}
+p{
+        color: #7D7D7D;
+}
+    ul {
+        width: 80%;
+        margin: auto;
+    }
+.strong {
+        font-family: 'Roboto Slab',Georgia,"Times New Roman",serif;  
+}
+
+.vi{
+    display: flex;
+    justify-content: space-around;
+}
+/*--qui sommes nous--*/
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.text p{
+    font-size: larger;    
+    padding: 0px 0px 1px;
+    display: block;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: white;
+    max-width: 0px;
+    margin-top: 0px;
+}
+.text p {
+    display: flex;
+    justify-content: left;
+    font-family:'Roboto Slab',Georgia,"Times New Roman",serif;
+}
+.text, .image {
+background-color:  #369;
+background-position: center;
+}
+ 
+.noir .jaune .rouge h1{
+    color: #369;
+    background-color:white;
+   
+}
+.image{
+    display: flex;
+    justify-content: right;
+    justify-content: flex-start;
+}
+.text h2{
+    max-width: 350px;
+    margin-top: 0px;
+   
+   
+}
+ 
+
